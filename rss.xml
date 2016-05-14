@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TAF AGENCY]]></title>
+        <description><![CDATA[TAF AGENCY]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 14 May 2016 00:09:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b20d91e-0157-4c1e-89c7-dec1a3e65c5f.jpg" alt="" title="" />]]></description>
+            <link>undefinedbienvenidos/index.html</link>
+            <guid isPermaLink="false">01afaafc-9372-45e6-8379-9702d11a73d1</guid>
+            <pubDate>Sat, 14 May 2016 00:09:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

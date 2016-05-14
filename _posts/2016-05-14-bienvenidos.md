@@ -4,10 +4,10 @@ hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-05-14T00:17:14.583Z'
-dateModified: '2016-05-14T00:17:09.429Z'
-title: BIENVENIDOS
+description: BIENVENIDOS
+datePublished: '2016-05-14T00:16:38.831Z'
+dateModified: '2016-05-14T00:16:30.863Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -24,4 +24,4 @@ _type: Blurb
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e3adcdd-aecf-48bf-80e1-c4758c2fc3c2.jpg)
 
-# BIENVENIDOS
+BIENVENIDOS
